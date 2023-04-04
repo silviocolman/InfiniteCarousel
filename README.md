@@ -1,9 +1,9 @@
 ## Infinite Carousel
+El proyecto en si seria una vista de pestañas infinitas de SwiftUI.
 
 Usando una Tab View creamos una vista de carrusel infinita, la explicación de esto es muy sencilla, cuando
 un usario intenta navegar a la primera página, inmediatamente vamos a la última página, ques es una réplica
 de la primera página, haciendo que parezca que hay páginas infinitas.
-
 Lo mismo sigue para la última página.
 
 ### Tecnologías utilizadas:
